@@ -4,7 +4,15 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon ./js/variables.js",
+    "dev": "nodemon ./js/18-method.js",
+    "num": "nodemon ./js/02-numbers.js",
+    "st": "nodemon ./js/03-string.js",
+    "arr": "nodemon ./js/04-array.js",
+    "if": "nodemon ./js/05-if.js",
+    "f": "nodemon ./js/06-function.js",
+    "for": "nodemon ./js/07-for.js",
+    "arrow": "nodemon ./js/08-arrow-functions.js",
+    "liekana": "nodemon ./js/11-liekana.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
